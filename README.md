@@ -5,20 +5,5 @@ use cases of Spring Boot RestAPI, and it helps to create a relationship between 
 I look forward to discovering more about Spring Boot and enhancing my arsenal with its beauty.
 
 
-### Author
-![img.png](img.png)
+## End points
 
-### Borrower
-![img_1.png](img_1.png)
-
-### Book
-
-![img_2.png](img_2.png)
-
-### Category
-
-![img_3.png](img_3.png)
-
-#### Publisher
-
-![img_4.png](img_4.png)
