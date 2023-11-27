@@ -6,4 +6,5 @@ I look forward to discovering more about Spring Boot and enhancing my arsenal wi
 
 
 ## End points
+![image](https://github.com/mfatihb97/restapi/assets/88513762/32e7151c-14ff-4e79-b17e-fd639fa05ff3)
 
